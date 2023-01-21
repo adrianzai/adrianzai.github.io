@@ -1,10 +1,11 @@
 body{
     margin:0;
-    font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif system-ui;
+    font-family: sudo, verdana;
 }
 
 header {
     color:darkgrey;
+    background-color: 
     text-align:center;
     padding:25px
 }
