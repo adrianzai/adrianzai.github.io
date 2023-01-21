@@ -16,6 +16,8 @@ header {
 main {
     background-color: #000F9F;
     color:white;
+    padding: 25px;
+    height: 800px;
 }
 
 footer {
