@@ -18,3 +18,10 @@ main {
     color:white;
 }
 
+footer {
+    font-weight: 10px;
+    color: lightgray;
+    text-align: center;
+    padding: 25px;
+    background-color: #000000;
+}
